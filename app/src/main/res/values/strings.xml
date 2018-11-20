@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Ticket Booking System</string>
+
+    <!-- Strings related to login -->
+    <string name="register_text"><u>New User?  Signup here</u></string>
+    <string name="title_size">18dp</string>
+    <string-array name="cities">
+        <item>Pune</item>
+        <item>Mumbai</item>
+        <item>Chennai</item>
+        <item>Hyderabad</item>
+        <item>Delhi</item>
+        <item>Chandigarh</item>
+        <item>Bhopal</item>
+        <item>Bangalore</item>
+
+
+    </string-array>
+
+    <string-array name="sports_category">
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Kabaddi</item>
+
+        <item>Hockey</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Hindi U/A</item>
+        <item>English U/A</item>
+
+        <item>Tamil U/A</item>
+
+    </string-array>
+
+    <string-array name="movies">
+        <item>Sanju</item>
+        <item>Wolf of the wall street</item>
+        <item>Tumbaad</item>
+        <item>Avengers:Infinity War</item>
+        <item>Conjuring 3</item>
+        <item>Don 3</item>
+        <item>Golmaal 5</item>
+        <item>Baahubali:The Beginning</item>
+        <item>Ra One</item>
+
+
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+</resources>
